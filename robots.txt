@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://theshado40.github.io/snippets-0ihoxb/sitemap.xml
